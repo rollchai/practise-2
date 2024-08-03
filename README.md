@@ -1,2 +1,2 @@
 # practise-2
-this is my repractise repo
+this is my repractise reposetry
